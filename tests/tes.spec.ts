@@ -23,3 +23,9 @@ test("test 4", async({page})=>{
 test("test 5", async({page})=>{
     console.log('Hihi');
 })
+
+
+
+test("test 6", async({page})=>{
+    console.log('Haha');
+})
