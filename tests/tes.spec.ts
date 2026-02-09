@@ -9,3 +9,29 @@ test("test 1", async({page})=>{
 test("test 2", async({page})=>{
     console.log('Hello world!');
 })
+
+test("test 3", async({page})=>{
+    console.log('Hello Nga!');
+})
+
+
+test("test 4", async({page})=>{
+    console.log('Hello!');
+})
+
+
+test("test 5", async({page})=>{
+    console.log('Hihi');
+})
+
+
+
+test("test 6", async({page})=>{
+    console.log('Haha');
+})
+
+
+
+test("test 7", async({page})=>{
+    console.log('Testgit');
+})
