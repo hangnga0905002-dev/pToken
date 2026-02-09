@@ -18,3 +18,8 @@ test("test 3", async({page})=>{
 test("test 4", async({page})=>{
     console.log('Hello!');
 })
+
+
+test("test 5", async({page})=>{
+    console.log('Hihi');
+})
