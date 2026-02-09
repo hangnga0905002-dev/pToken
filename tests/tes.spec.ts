@@ -13,3 +13,8 @@ test("test 2", async({page})=>{
 test("test 3", async({page})=>{
     console.log('Hello Nga!');
 })
+
+
+test("test 4", async({page})=>{
+    console.log('Hello!');
+})
