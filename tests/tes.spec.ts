@@ -29,3 +29,9 @@ test("test 5", async({page})=>{
 test("test 6", async({page})=>{
     console.log('Haha');
 })
+
+
+
+test("test 7", async({page})=>{
+    console.log('Testgit');
+})
