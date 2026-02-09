@@ -9,3 +9,7 @@ test("test 1", async({page})=>{
 test("test 2", async({page})=>{
     console.log('Hello world!');
 })
+
+test("test 3", async({page})=>{
+    console.log('Hello Nga!');
+})
